@@ -1,0 +1,20 @@
+body,p,img,span,nav,div,ul,li,input,header,a,th,td,table,th{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+ul{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+.lf{
+	float:left;
+}
+.rt{
+	float:right;
+}
+.clearfloat{
+	clear:both;
+}

@@ -1,0 +1,128 @@
+.denglu_img{
+	background-image:url(../img/beijing3.png);
+	width:100%;
+	height:669px;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	margin:0;
+}
+.denglu_img .denglu_cen{
+	width:1280px;
+	height:519px;
+	margin:0 auto;
+}
+.denglu_img .denglu_cen .denglu_msg{
+	width:370px;
+	height:100%;
+	min-height:519px;
+	background-color:#fff;
+	margin-top:70px;
+	float:right;
+	text-align:center;
+}
+.denglu_img .denglu_cen .denglu_msg>img{
+	margin:40px 0 15px 0;
+}
+.denglu_img .denglu_cen .denglu_msg img+p{
+	font-size:20px;
+	font-weight:700;
+}
+.denglu_cen .denglu_msg form{
+	width:318px;
+	height:376px;
+	margin:0 auto;
+	text-align:left;margin-top:20px;
+	font-family:"΢���ź�";
+}
+.denglu_cen .denglu_msg .denglu_msg2 p{
+	font-size:13px;
+	margin-bottom:4px;
+}
+.denglu_msg .denglu_msg2 .input1{
+	width:318px;
+	height:32px;
+	border:1px solid #ddd;
+	background-color:#F5F5F5;
+}
+.denglu_msg .denglu_msg2 .input1>img{
+	width:14px;
+	height:12px;
+	float:left;
+	margin:13px 5px 0 8px;;
+}
+.denglu_msg .denglu_msg2 .input1>input{
+	outline:none;
+	height:100%;
+	width:289px;
+	float:left;
+	border:0;
+	background-color:transparent;
+	
+}
+.denglu_msg .denglu_msg2 .input1+span{
+	display:block;
+	height:20px;
+}
+.denglu_msg2 .jizhu{
+	width:300px;
+	height:18px;
+	box-sizing:border-box;
+	margin:4px 0 20px 0;
+	font-size:12px;	
+}
+.denglu_msg2 .jizhu input{
+	vertical-align:top;
+	width:16px;
+	height:16px;
+}
+.denglu_msg2 .shangkuang{
+	border-top:1px solid #e5e5e5;
+	padding-top:20px;
+}
+.denglu_msg2 .shangkuang input{
+	width:100%;
+	height:32px;
+	margin-bottom:15px;
+	background: #292929;
+	outline:none;
+	border:1px solid #292929;
+	border-radius:3px;
+	color:#fff;
+	cursor:pointer;
+}
+.denglu_msg2 .shangkuang input:last-child{
+	background: #fff;
+	border:1px solid #ddd;
+	color:#000;
+}
+.denglu_msg2 .shangkuang+p a{
+	display:block;
+	color:#888;
+	padding-top:17px;
+}
+.denglu_msg2 p:last-child a{
+	display:block;
+	color:#000;
+	width:180px;
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	float:right;
+}
+.shuoming{
+	width:1190px;
+	height:167px;
+	padding:29px 30px 38px 30px;
+	margin:0 auto;
+	line-height:1.8;
+	color:#666;
+	font-size:12px;
+}
+.shuoming p:first-child{
+	font-size:13spx;
+	color:#000;
+	margin-bottom:8px;
+}
+.shuoming a{
+	color:#0000ff;
+}
